@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    background-color: black;
+    color: white;
+}
+li{
+    display: inline;
+}
+.image{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    width: 275px;
+}
+.photo{
+    text-align: center;
+    margin: 30px;
+
+}
+.image:hover{
+    background-color: rgb(1, 10, 11);
+    color: rgb(252, 252, 252);
+}
+li:hover,.joe:hover{
+    color: skyblue;
+    cursor: pointer;    
+}
+p{
+    margin: 30px;
+}
+.topic{
+    background-color: rgb(3, 3, 3);
+    color: rgb(251, 105, 105);
+    text-align: center;
+    padding: 30px;
+}
+p{
+    margin: 50px;
+}
+.favil{
+    margin: 30px;
+    color: rgb(30, 23, 54);
+}
